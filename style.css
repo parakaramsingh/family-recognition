@@ -1,0 +1,24 @@
+body {
+ background-image: url("https://image.shutterstock.com/image-vector/illustration-cute-happy-family-four-260nw-282961439.jpg");
+ background-size: cover;
+ background-position: center;
+ text-align: center;
+}
+.heading{
+    background-color: aqua;
+    color: black;
+    font-size: 30px;
+    width: 80%;
+}
+p{
+color: blue;
+}
+.name_of_object,#result_object_name,#result_object_accuracy{
+    color: blue;
+    font-size: 30px;
+}
+#camera,#result{
+    height: 350px;
+    width: 450px;
+    border: 2px solid purple;
+}
